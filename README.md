@@ -13,7 +13,7 @@ Insights and recommendations are provided on the following areas:
 
 *The source data was transformed in Excel and modeled in Power BI using a star schema to support flexible category-, item-, and location-level reporting and analysis.*
 
-<img width="800" height="484" alt="image" src="https://github.com/user-attachments/assets/3505100e-9d05-408a-8ec9-aab9181f8641" />
+<img width="800" height="484" alt="image" src="https://githubusercontent.com/user-attachments/assets/3505100e-9d05-408a-8ec9-aab9181f8641" />
 
 ## Overview of Findings
 Analysis of first-quarter 2026 sales and cost data identified liquor as the restaurant's strongest profit driver, generating an average gross margin of 85.6% despite accounting for only 5.1% of total sales, presenting a significant opportunity to increase overall profitability. The analysis also uncovered notable cost anomalies across locations, including unusually high spending on Uncle Nearest 1856 at Location 2, which was confirmed to result from improper use of the product in a cocktail recipe. Additionally, Location 1 reported no costs for Raw Tail On 16-20 Shrimp, compared to approximately $9,000 and $12,000 at the other two locations, indicating a possible procurement discrepancy requiring further investigation. Based on these findings, recommendations focus on increasing sales of liquor products while strengthening inventory controls and purchasing oversight to address the Uncle Nearest 1856 and Raw Shrimp cost inconsistencies across locations.
@@ -23,7 +23,7 @@ Analysis of first-quarter 2026 sales and cost data identified liquor as the rest
 
 *The visualization below compares gross margin and total sales across categories, highlighting liquor as the highest-leverage driver of profitability despite representing a small share of total revenue.*
 
-<img width="1412" height="791" alt="image" src="https://github.com/user-attachments/assets/5a20fc9e-b5c8-4eef-93ac-1c0a133d161e" />
+<img width="1412" height="791" alt="image" src="https://githubusercontent.com/user-attachments/assets/5a20fc9e-b5c8-4eef-93ac-1c0a133d161e" />
 
 - This finding suggests that increasing liquor sales presents a highly effective opportunity to improve overall profitability. Unlike the restaurant's highest-selling category, food, which requires significant increases in sales volume to generate meaningful profit growth, liquor produces a substantial profit return on each additional dollar sold. Based on current performance, a 10% increase in liquor sales would be expected to generate approximately $18,000 in additional quarterly gross profit across the three locations while requiring relatively little incremental cost.
 
@@ -34,7 +34,7 @@ Analysis of first-quarter 2026 sales and cost data identified liquor as the rest
 
 *The visualization below compares top liquor purchases by value and highlights the individual cost and percentage share of Uncle Nearest 1856 across locations.*
 
-<img width="1413" height="794" alt="image" src="https://github.com/user-attachments/assets/d34a5338-043f-4b02-ac24-575b830c31a4" />
+<img width="1413" height="794" alt="image" src="https://githubusercontent.com/user-attachments/assets/d34a5338-043f-4b02-ac24-575b830c31a4" />
 
 - To determine the cause of the variance, purchasing records were reviewed alongside bar recipes and operational procedures. Discussions with management confirmed that Uncle Nearest 1856 had been substituted into a cocktail recipe where Uncle Nearest 1884 was intended. This explanation aligned with the purchasing data, which showed unusually low spending on Uncle Nearest 1884 at Location 2. The substitution resulted in substantially higher consumption and purchasing volume of a more expensive liquor, driving elevated costs.
 
@@ -46,7 +46,7 @@ Analysis of first-quarter 2026 sales and cost data identified liquor as the rest
 
 *The visualization below compares top seafood purchases by value and highlights the individual cost and percentage share of Raw P&D Tail-On Shrimp 16-20 across locations.*
 
-<img width="1413" height="795" alt="image" src="https://github.com/user-attachments/assets/097091d3-8e04-4d55-8704-0792796c0f83" />
+<img width="1413" height="795" alt="image" src="https://githubusercontent.com/user-attachments/assets/097091d3-8e04-4d55-8704-0792796c0f83" />
 
 - To determine the cause of the variance, item-level purchasing records and seafood sourcing practices were reviewed. While most fish and shellfish products exhibited purchasing patterns consistent with expected operational activity, Raw P&D Tail-On Shrimp 16-20 showed no recorded purchases at Location 1 despite having similar usage to the other locations. Further investigation revealed that Location 1 received shrimp through the commissary department, which purchased and distributed inventory separately from the restaurant-level purchasing system. As a result, shrimp costs associated with Location 1 were not reflected in the restaurant's direct purchasing records, creating the appearance that all purchases were concentrated at Locations 2 and 3.
 
